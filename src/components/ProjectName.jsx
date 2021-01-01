@@ -4,11 +4,7 @@ import '../styles/App.css';
 class ProjectName extends Component {
     render() {
 
-        return(
-            <>
-               
-            </>
-        )
+        return<h1 data-ns-test attributes="project-name">project name</h1>  
     }
 }
 

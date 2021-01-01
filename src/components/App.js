@@ -6,8 +6,8 @@ class App extends Component {
 
         return(
             <>
-             <h1 data-ns-test attributes="project-name">project name</h1> 
-             <h3 data-ns-test attributes="project-description">description</h3> 
+             <h1 data-ns-test="project-name">project name</h1> 
+             <h3 data-ns-test="project-description">description</h3> 
             </>
         )
     }
